@@ -1,3 +1,9 @@
-civis==1.11.0
-pubnub==4.0.12
+civis
+pubnub==4.1.2
 joblib==0.11
+google-auth-httplib2
+google-auth-oauthlib
+pandas
+numpy
+sklearn
+
